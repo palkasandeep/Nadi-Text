@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nadi-Text/static/css/main.dc4d6ff2.css",
+    "main.js": "/Nadi-Text/static/js/main.f3be4354.js",
+    "static/js/453.64512fd7.chunk.js": "/Nadi-Text/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Nadi-Text/index.html",
+    "main.dc4d6ff2.css.map": "/Nadi-Text/static/css/main.dc4d6ff2.css.map",
+    "main.f3be4354.js.map": "/Nadi-Text/static/js/main.f3be4354.js.map",
+    "453.64512fd7.chunk.js.map": "/Nadi-Text/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.f3be4354.js"
+  ]
+}
